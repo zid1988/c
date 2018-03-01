@@ -19,6 +19,14 @@ body {
   font-family: "Open Sans";
   font-weight: 400; }
 
+  /********************************************************************************************
+                                      CUSTOM CSS STARTS HERE
+  *********************************************************************************************/
+
+  .add-underline {
+    text-decoration: underline !important;
+  }
+
 a,
 .btn-link {
   text-decoration: none;
